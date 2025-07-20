@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "421334901089",
+    "project_id": "harmonique-a1741",
+    "storage_bucket": "harmonique-a1741.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421334901089:android:7d2793abf0291f997be520",
+        "android_client_info": {
+          "package_name": "com.mnd.harmonique"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqb9thVbRb6N1z3aaNxoAeFLhaRoO0sh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
