@@ -56,12 +56,14 @@ To run the project:
 ```
 
 📂 Project Structure
+```
 /lib
 ├── host_playback_screen.dart      # Host screen with video URL input and controls
 ├── participant_screen.dart        # Participant screen to sync and play video
 ├── firebase_service.dart          # Handles reading/writing from Firebase
 ├── sync_utils.dart                # Delay compensation and sync logic
 └── main.dart                      # App entry point
+```
 
 🔑 Key Concepts
 🔸 Sync via Firebase
